@@ -1,4 +1,4 @@
-# Twitter-Tweet-Analysis
+# Twitter-Sentimental-Analysis
 I have made a twitter tweets analysis project using Python and its library.
 
 This will ask the user to enter the key word and the number of tweeets on which he/she wants the analysis.
